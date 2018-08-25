@@ -25,7 +25,7 @@ import butterknife.OnClick;
 /**
  * 参考实例：ViewPager + PhotoView ==> https://blog.csdn.net/m0_37168878/article/details/78905370
  * 官网地址：https://github.com/chrisbanes/PhotoView
- *
+ *  232324
  */
 public class MainActivity extends AppCompatActivity {
 
